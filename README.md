@@ -1,3 +1,6 @@
+# APP DETAILS
+![Mardown Logo](hackernews.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +71,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Author
+
+This project is entirely developed by Ujjwal Singh 
+
+Thanks to [Netlify](https://www.netlify.com/) for hosting our live project.
+
+## License
+
+This project is ©UjjwalSingh , One can use project and modify the existing code and design with author permission.OR mentioning author github profile link(https://github.com/ujjwalsinghdev)
